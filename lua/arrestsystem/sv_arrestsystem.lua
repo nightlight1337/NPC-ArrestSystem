@@ -47,6 +47,7 @@ concommand.Add("arrestnpc", function(pl, _, args)
             pl:ChatPrint("No prison positions.")
             return
         end
+
         pl:ChatPrint("---------")
         pl:ChatPrint("ID -- Pos (Vector)")
         for id, v in ipairs(ArrestNPC.ArrestPos) do
