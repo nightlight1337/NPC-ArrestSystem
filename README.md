@@ -1,4 +1,5 @@
--- RUS 🇷🇺
+RUS 🇷🇺
+=
 ❓ Что это?
 Это легкий скрипт, который добавляет NPC для ареста и снятия ареста с игроков. (Подходит для всех игровых режимов)
 
@@ -11,9 +12,11 @@ arrestnpc list - Отображает все текущие позиции в ч
 🌍 Требуется:
 https://www.gmodstore.com/market/view/cuffs-handcuffs-and-restraints
 
-================================================
+**ВЫ МОЖЕТЕ ИСПОЛЬЗОВАТЬ ЭТОТ СКРИПТ ДЛЯ ЛЮБЫХ ЦЕЛЕЙ, НЕ НАДО СПРАШИВАТЬ МОЕГО РАЗРЕШЕНИЯ НА ИСПОЛЬЗОВАНИЕ ЭТОЙ РАБОТЫ.**
 
--- ENG 🇺🇸/🇬🇧
+
+ENG 🇺🇸/🇬🇧
+=
 ❓ What's that?
 This is a lightweight script that adds NPCs to arrest and unarrest players. (Suitable for all gamemodes)
 
@@ -25,3 +28,5 @@ arrestnpc list - Will display all current positions in chat. (IDs and Positions(
 
 🌍 Required:
 https://www.gmodstore.com/market/view/cuffs-handcuffs-and-restraints
+
+**YOU CAN USE THIS SCRIPT FOR ANY PURPOSE, YOU DON'T NEED TO ASK MY PERMISSION TO USE THIS WORK.**
